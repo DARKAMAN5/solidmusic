@@ -58,3 +58,5 @@ $ sudo su
 # nano .env # fill it with your env 
 # python3 main.py
 ```
+
+[![𝙶𝙷𝙾𝚂𝚃 𝙼𝚄𝚂𝙸𝙲](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FDARKAMAN5%2Fsolidmusic)
