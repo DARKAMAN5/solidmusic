@@ -11,7 +11,7 @@
   "track_skipped": "💡**Track skipped, and now playing {}.**",
   "no_playlists": "🤷‍♂️ **This chat is not have playlist.**",
   "not_in_queue": "**This chat is not have any queue.**",
-  "now_streaming": "**("https://te.legra.ph/file/8b7e7f7dc010c6967e3c1.jpg")[now streaming] .**",
+  "now_streaming": "**now streaming.**",
 
   "playlist": "Playlist",
   "yt_title": "**Title**",
