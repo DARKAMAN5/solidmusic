@@ -13,7 +13,7 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
   "track_skipped": "💡**Track skipped, and now playing {}.**",
   "no_playlists": "🤷‍♂️ **This chat is not have playlist.**",
   "not_in_queue": "**This chat is not have any queue.**",
-  "now_streaming": "**༎⃝🔥𝐓𝐇𝐍𝐗 𝐅𝐎𝐑 𝐔𝐒𝐈𝐍𝐆 𝐆𝐇𝐎𝐒𝐓 𝐌𝐔𝐒𝐈𝐂༎⃝➤**",
+  "now_streaming": "**༎⃝🔥𝐓𝐇𝐍𝐗 𝐅𝐎𝐑 𝐔𝐒𝐈𝐍𝐆 𝐆𝐇𝐎𝐒𝐓 𝐌𝐔𝐒𝐈𝐂༎⃝➤**
         reply_markup=InlineKeyboardMarkup(
             [
                 [
