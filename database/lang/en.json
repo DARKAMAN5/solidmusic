@@ -1,3 +1,5 @@
+from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
+
 {
   "not_an_admin": "**I'm not an admin in this chat.**",
   "call_started": "**Voice chat started.**",
